@@ -14,3 +14,5 @@ Key features include:
 
 Explore the Jupyter Notebook for full implementation and analysis:
 https://github.com/trevrugg/airfare_simulation/blob/main/airfare_simulation.ipynb 
+
+Read the full report for conclusions and next steps:
