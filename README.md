@@ -12,4 +12,5 @@ Key features include:
 
 5. Configurable logic for future experimentation and policy design
 
-Explore the Jupyter Notebook for full implementation and analysis.
+Explore the Jupyter Notebook for full implementation and analysis:
+https://github.com/trevrugg/airfare_simulation/blob/main/airfare_simulation.ipynb 
